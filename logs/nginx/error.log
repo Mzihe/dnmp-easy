@@ -1,0 +1,20 @@
+2021/07/01 11:40:25 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:40:27 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:40:29 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:40:30 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:40:31 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:40:33 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:40:37 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:40:44 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:40:57 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:41:23 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:42:15 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:43:16 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:44:16 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:45:17 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:46:17 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:47:18 [emerg] 1#1: no "events" section in configuration
+2021/07/01 11:55:02 [error] 30#30: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.21.0.1, server: zhangdetalk.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.21.0.5:9000", host: "localhost"
+2021/07/01 11:55:48 [error] 30#30: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.21.0.1, server: zhangdetalk.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.21.0.5:9000", host: "localhost"
+2021/07/01 11:55:52 [error] 30#30: *3 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 115.195.64.101, server: zhangdetalk.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.21.0.5:9000", host: "121.4.223.211"
+2021/07/01 11:55:52 [error] 30#30: *3 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 115.195.64.101, server: zhangdetalk.com, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.21.0.5:9000", host: "121.4.223.211", referrer: "http://121.4.223.211/"
